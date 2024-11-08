@@ -132,6 +132,3 @@ This project was developed by James Davis as part of a data analysis portfolio. 
 Happy exploring, and enjoy the music! 🎧
 
 
----
-
-This `README.md` file uses clear headers, emojis to enhance visual interest, and structured sections to make it easy for readers to navigate and engage with. Let me know if there’s anything more you’d like to add!
