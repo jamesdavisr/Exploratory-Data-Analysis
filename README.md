@@ -47,7 +47,7 @@ git clone https://github.com/jamesdavisr/Exploratory-Data-Analysis.git
 ``` Most Streamed Spotify Songs 2023.ipynb  ```
 
 # Launch Jupyter Notebook
-jupyter notebook
+``` jupyter notebook ```
 
 ## 📊 Analysis Outline
 
