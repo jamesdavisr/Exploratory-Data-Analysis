@@ -44,7 +44,7 @@ Clone the repository and run the Jupyter Notebook to dive into the analysis:
 git clone https://github.com/jamesdavisr/Exploratory-Data-Analysis.git
 
 # Navigate into the project directory
-cd Most Streamed Spotify Songs 2023.ipynb 
+cd Most Streamed Spotify Songs 2023.ipynb  
 
 # Launch Jupyter Notebook
 jupyter notebook
@@ -113,12 +113,18 @@ Predictive modeling: Using the dataset to predict the popularity of future track
 Extended platform analysis: Comparing trends across additional music streaming platforms.
 
 ## 📂 Repository Structure
-│
+
+The repository is structured as follows:
+
+```plaintext
+Exploratory-Data-Analysis/
 ├── data/
-│   └── Most Streamed Spotify Songs 2023.csv     # Dataset
+│   └── Most Streamed Spotify Songs 2023.csv     # Dataset containing popular Spotify songs data
 ├── notebooks/
-│   └── Spotify_EDA.ipynb                        # Jupyter Notebook with analysis
-└── README.md                                    # Project documentation
+│   └── Spotify_EDA.ipynb                        # Jupyter Notebook with the full exploratory data analysis
+├── requirements.txt                             # File listing required Python packages for easy installation
+└── README.md                                    # Project documentation with instructions, objectives, and insights
+```
 
 ## 👨‍💻 About the Author
 This project was developed by James Davis as part of a data analysis portfolio. For questions or suggestions, feel free to reach out or check out my other work on GitHub.
