@@ -44,7 +44,7 @@ Clone the repository and run the Jupyter Notebook to dive into the analysis:
 git clone https://github.com/jamesdavisr/Exploratory-Data-Analysis.git
 
 # Navigate into the project directory
-cd Most Streamed Spotify Songs 2023.py
+cd Most Streamed Spotify Songs 2023.ipynb 
 
 # Launch Jupyter Notebook
 jupyter notebook
