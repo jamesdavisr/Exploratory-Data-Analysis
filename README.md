@@ -119,11 +119,11 @@ The repository is structured as follows:
 ```plaintext
 Exploratory-Data-Analysis/
 ├── data/
-│   └── Most Streamed Spotify Songs 2023.csv     # Dataset containing popular Spotify songs data
+│   └── Most Streamed Spotify Songs 2023.csv      # Dataset containing popular Spotify songs data
 ├── notebooks/
-│   └── Spotify_EDA.ipynb                        # Jupyter Notebook with the full exploratory data analysis
-├── requirements.txt                             # File listing required Python packages for easy installation
-└── README.md                                    # Project documentation with instructions, objectives, and insights
+│   └── Most Streamed Spotify Songs 2023.ipynb    # Jupyter Notebook with the full exploratory data analysis
+├── requirements.txt                              # File listing required Python packages for easy installation
+└── README.md                                     # Project documentation with instructions, objectives, and insights
 ```
 
 ## 👨‍💻 About the Author
