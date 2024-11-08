@@ -40,10 +40,16 @@ To get started, ensure you have Python installed with the following libraries:
 - `numpy`
 
 Clone the repository and run the Jupyter Notebook to dive into the analysis:
-
-```bash
+# Clone the repository
 git clone https://github.com/jamesdavisr/Exploratory-Data-Analysis.git
+
+# Navigate into the project directory
 cd Exploratory-Data-Analysis
+
+# Install the required Python libraries
+pip install -r requirements.txt
+
+# Launch Jupyter Notebook
 jupyter notebook
 
 ## 📊 Analysis Outline
