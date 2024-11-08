@@ -127,7 +127,7 @@ Exploratory-Data-Analysis/
 ```
 
 ## 👨‍💻 About the Author
-This project was developed by James Davis as part of a data analysis portfolio. For questions or suggestions, feel free to reach out or check out my other work on GitHub.
+This project was developed by James Davis, an electronics engineering student at the University of Santo Tomas, as part of a data analysis portfolio. For questions or suggestions, feel free to reach out or check out my other work on GitHub.
 
 Happy exploring, and enjoy the music! 🎧
 
