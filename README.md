@@ -32,8 +32,8 @@ This project was created using:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/jamesdavisr/Exploratory-Data-Analysis.git
-    cd Most-Streamed-Spotify-Songs-2023
+   https://github.com/jamesdavisr/Exploratory-Data-Analysis.git
+
     ```
 
 2. **Install the required libraries**:
